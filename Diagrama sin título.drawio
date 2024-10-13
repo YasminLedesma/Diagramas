@@ -86,7 +86,7 @@
           <mxGeometry y="130" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dZip6Z7AYtFTU6goFjOu-5" value="TIPO DE ESTUDIO" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="760" y="200" width="160" height="100" as="geometry" />
+          <mxGeometry x="760" y="210" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dZip6Z7AYtFTU6goFjOu-8" value="&lt;u&gt;Cod. Estudio&lt;/u&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="dZip6Z7AYtFTU6goFjOu-5">
           <mxGeometry y="40" width="160" height="30" as="geometry" />
